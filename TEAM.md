@@ -1,10 +1,10 @@
 ## Michael Gord
-### Name
+#### Name
 Michael Gord
 ### Role
 CEO
 ### Bio
-Bio: Michael Gord is a full stack blockchain developer and the founder and CEO of MLG Blockchain, an enterprise blockchain and ICO consulting and development firm, the co-founder of StratX, a global liquidity solution provider, and AirdropX, a social platform for tokens to globally distribute their tokens in with airdrops. Michael was the first enterprise blockchain developer at TD Bank, one of the largest Canadian banks.
+Michael Gord is a full stack blockchain developer and the founder and CEO of MLG Blockchain, an enterprise blockchain and ICO consulting and development firm, the co-founder of StratX, a global liquidity solution provider, and AirdropX, a social platform for tokens to globally distribute their tokens in with airdrops. Michael was the first enterprise blockchain developer at TD Bank, one of the largest Canadian banks.
 
 Michael is also an advisor of the Blockchain Education Network, a robust global network of blockchain enthusiasts, sits on the board of directors of the Blockchain Association of Canada, an advisor to the Canadian government. He is an advisor and investor into several prominent blockchain ventures and writes for Bitcoin Magazine in addition to several other fintech publications. Michael has spoken about TRON to audiences in Toronto, Montreal, Vancouver, Brampton, San Francisco, Ho Chi Minh, Bangalore and Trivandrum.
 
