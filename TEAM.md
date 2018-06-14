@@ -1,14 +1,24 @@
-## Founder
+## Michael Gord
 
 Name: [name]
 Role: [role]
 
-## Team Member 1
+## Kyle Fry
 
 Name: [name]
 Role: [role]
 
-## Team Member 2
+## Joaquim Miro
+
+Name: [name]
+Role: [role]
+
+## Suman Das
+
+Name: [name]
+Role: [role]
+
+## Brian Lieberman
 
 Name: [name]
 Role: [role]
