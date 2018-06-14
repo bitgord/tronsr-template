@@ -1,14 +1,17 @@
 ## Michael Gord
-
+__Name__
 Name: Michael Gord
+__Role__
 Role: CEO
+__Bio__
 Bio: Michael Gord is a full stack blockchain developer and the founder and CEO of MLG Blockchain, an enterprise blockchain and ICO consulting and development firm, the co-founder of StratX, a global liquidity solution provider, and AirdropX, a social platform for tokens to globally distribute their tokens in with airdrops. Michael was the first enterprise blockchain developer at TD Bank, one of the largest Canadian banks.
 
 Michael is also an advisor of the Blockchain Education Network, a robust global network of blockchain enthusiasts, sits on the board of directors of the Blockchain Association of Canada, an advisor to the Canadian government. He is an advisor and investor into several prominent blockchain ventures and writes for Bitcoin Magazine in addition to several other fintech publications. Michael has spoken about TRON to audiences in Toronto, Montreal, Vancouver, Brampton, San Francisco, Ho Chi Minh, Bangalore and Trivandrum.
 
 Michael holds a degree in Entrepreneurship, Marketing and Information Systems from the Desautels Faculty of Management at McGill University, where he founded the McGill Cryptocurrency Club and co-founded the McGill Students Fintech Association. After graduating, Michael made the first donation of bitcoin to the McGill Alumni Association.
-* Link: https://medium.com/@Tronfoundation/tron-partners-with-mlg-blockchain-to-develop-global-community-152ba3a04833
-
+__Press__
+* Press: https://medium.com/@Tronfoundation/tron-partners-with-mlg-blockchain-to-develop-global-community-152ba3a04833
+__Socials__
 * [Michael Gord Facebook](https://www.facebook.com/michael.l.gord)
 * [Michael Gord Twitter](https://twitter.com/bitgord)
 * [Michael Gord Linkedin](https://www.linkedin.com/in/mgord/)
