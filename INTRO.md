@@ -1,18 +1,3 @@
-<h1 align="center">
-  <br>
-  <img width="40%" src="https://mlgblockchain.com/assets/img/logo.png">
-  <br>
-  MLG Blockchain Super Representative Proposal
-  <br>
-</h1>
-
-<p align="center">
-  <a href="#who-we-are">Who We Are</a> •
-  <a href="#what-we-do">What We Do</a> •
-  <a href="#socials">Socials</a> •
-  <a href="https://mlgblockchain.org">mlgblockchain.com</a>
-</p>
-
 ## Who We Are
 
 MLG Blockchain is a global blockchain development and consulting firm headquartered in Toronto and New York City with a distributed team across North America, Europe and Asia that is focused on building next generation applications using blockchain and smart contract technology. We speed up our clients understanding of the blockchain and its potential opportunities for their businesses and help to create a blockchain strategy that is usable today.
