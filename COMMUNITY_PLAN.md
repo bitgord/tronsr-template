@@ -1,5 +1,7 @@
 Our team proposes a global integrated digital marketing, community management and educational campaign to develop the TRON communities across every region of the world and inspire the next generation of TRON entrepreneurs to develop decentralized applications using the TRON blockchain.
 
+In addition, as a TRON Super Representatives our team will build a multi-server, multi-location DDOS protected environment with engineers who are experienced working in this type of enironment. It is important that all TRON Super Representatives work together and with the TRON Foundation to build the foundational network infrastructure that can power millions of decentralized applications built on top.
+
 ## Integrated Campaign
 
 #### TRON Canada
