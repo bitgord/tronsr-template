@@ -7,14 +7,20 @@ Our team created the official TRON Canada Facebook Group that has grown to over 
 * [Tron Canada](https://www.facebook.com/groups/troncanada/)
 
 #### Meetups/Conferences
-Before June 26, our team has hosted meetups with TRON and we have represented TRON at conferences across the world including in [Toronto](https://www.facebook.com/MLGBlockchain/videos/1566842496736735/), Montreal, Vancouver, San Francisco, Ho Chi Minh, Sydney, Boston, Brampton, Miami, New York, Amsterdam, Bangkok, Quebec City, Delhi, Bangalore and Trivandrum. The goal of hosting these meetups and representing Tron at these conferences is to teach people about the disruptive potential of the Tron blockchain. This month we have two events planned in Toronto. The first one is Tuesday June 19 and will focus on educating the community about TRON and the second one is June 26 and will focus on discussing applications of TRON.
+Before June 26, our team has hosted meetups with TRON and we have represented TRON at conferences across the world including in [Toronto](https://www.facebook.com/MLGBlockchain/videos/1566842496736735/), [Montreal](https://www.facebook.com/MLGBlockchain/videos/10159633112585487/?hc_ref=ARSH1iCddhcphllnIsMoPRmuVyndzikFqyOBH-R6DNbFJom2lufgLeexLI_-mZTSrGo), Vancouver, San Francisco, Ho Chi Minh, Sydney, Boston, Brampton, Miami, New York, Amsterdam, Bangkok, Quebec City, Delhi, Bangalore and Trivandrum. The goal of hosting these meetups and representing Tron at these conferences is to teach people about the disruptive potential of the Tron blockchain. This month we have two events planned in Toronto. The first one is Tuesday June 19 and will focus on educating the community about TRON and the second one is June 26 and will focus on discussing applications of TRON.
 
 Being a TRON Super Representative would allow us to substantially increase the number of TRON meetups we host around the world.
 
 #### Hackathons & Developer Training: 
-We hosted BlockHacks, a blockchain hackathon that TRON was featured at with 100 McGill and Concordia University students, two of the top universities in Canada, and other community partners including some of the most active fintech venture firms. The goal of the hackathon was to challenge students aspiring to be blockchain developers with making disruptive applications on new blockchain fabrics, including TRON, in a 48 hour period.
+Before June 26, we hosted hosted BlockHacks, a blockchain hackathon that TRON was featured at with 100 McGill and Concordia University students, two of the top universities in Canada, and other community partners including some of the most active fintech venture firms. The goal of the hackathon was to challenge students aspiring to be blockchain developers with making disruptive applications on new blockchain fabrics, including TRON, in a 48 hour period.
+
+As a TRON Super Representative, we plan to host a global TRON online hackathon that lasts a month and engages university clubs and blockchain communities in over 20 top global universities and 5 countries. We expect there to be over 500 applicants. We will make the hackathon into an inaugural event so that each year the TRON hackathon gets bigger with more students and projects built.
+* Previous hackathons: [Next Top Blockchain Exec](topblockchainexec.com)
 
 In addition to hosting more blockchain hackathons, we plan as a TRON Super Representative to host TRON blockchain development workshops to teach blockchain developers how to build applications with TRX and on the TRON blockchain. We will also publish TRON blockchain development tutorials on a new page of our website that will be focused entirely on TRON research and development.
+
+#### Annual Investor Event
+Similar to how there are annual events for shareholders in any public company, we believe that it will soon be best practices for token networks to have annual investor meetings for token holders. We think that TRON should be part of the leading role in this respect and begin to host annual roundtable events for the most active members of the community to attend and for the TRON team to make any exciting announcements.
 
 #### Competitions
 We have seen immense success by challenging the TRON community with giveaways, such as the TRON trading challenges which substantially increased the global trading volume of TRX. As a TRON Super Representative, we will take the industry best standards and build on them to create engaging competitions with a referral feature to create a viral effect for engagement with the TRON community.
@@ -23,7 +29,7 @@ We have seen immense success by challenging the TRON community with giveaways, s
 We have introduced hundreds of people around the world to their first TRON at airdrop events we have hosted and participated in. We partner with meetup organizers of blockchain communities around them the world and provide them with a way to give a small amount of TRON tokens to a targeted grassroots community in key regions to kickstart the growth of the new community.
 
 #### Social Media
-Our team has been posting news about TRON across our channels since TRON was launched. In addition, we create original designs for TRON and video recaps of our team representing TRON at events such as this one from a conference in [Toronto](https://www.facebook.com/MLGBlockchain/videos/1566842496736735/).
+Our team has been posting news about TRON across our channels since TRON was launched. In addition, we create original designs for TRON and video recaps of our team representing TRON at events such as this video from a conference in [Toronto](https://www.facebook.com/MLGBlockchain/videos/1566842496736735/) and [Montreal](https://www.facebook.com/MLGBlockchain/videos/10159633112585487/?hc_ref=ARSH1iCddhcphllnIsMoPRmuVyndzikFqyOBH-R6DNbFJom2lufgLeexLI_-mZTSrGo).
 
 ## Resources
 
