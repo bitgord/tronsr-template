@@ -1,5 +1,5 @@
 ## Current Server Configuration
-Prior to June 27, we have launched 3 testable TRON nodes with AWS to allow for smooth transitioning into physical hardware after becoming a TRON Super Representative. We decided to host all three nodes in Central Canada to maintain a local presence of the TRON network infrastructure. 
+Prior to June 26, we have launched 3 testable TRON nodes with AWS to allow for smooth transitioning into physical hardware after becoming a TRON Super Representative. We decided to host all three nodes in Central Canada to maintain a local presence of the TRON network infrastructure. We will increase our capacity as is required to maintain the network. 
 
 #### Server 1 (Up and Running)
 ------------
