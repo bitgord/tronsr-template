@@ -7,6 +7,22 @@ MLG Blockchain is a global blockchain development and consulting firm headquarte
 
 MLG Blockchain provides turnkey execution and global distribution services to help grow blockchain ventures and expand them to new markets. MLG Blockchain has worked on some of the most exciting case studies in the blockchain industry and has helped clients secure over 100M in tokensale funding over the past year. MLG worked with some of the leading blockchain networks on the planet, to develop global communities, enter new markets, develop blockchain technology and increase liquidity. A few of these include TRON, Loopring, Blockmason, Ontology Network, DCC, IHT, Soma, LaLa World, Corl, Coral Health and Kinesis. With over 2 years of experience as a leader within the blockchain space, MLG has remained at the forefront of the industry and continues to innovate through first case studies ranging from service creation to technological advancements.
 
+## Why Us
+
+• Long term commitment to Tron project
+
+• Existing relationship with Tron communities around the world
+
+• Experience hosting global events and hackathons
+
+• Global team distributed across 10 countries
+
+• Technical ability to maintain and develop server infrastructure
+
+• Adequately self-funded
+
+• Blockchain pioneers
+
 ## Socials
 
 MLG Blockchain is the top 3 on google searches for: blockchain consulting, blockchain consulting north america, blockchain consulting asia, blockchain consulting services, ico consulting north america
