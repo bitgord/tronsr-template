@@ -18,6 +18,7 @@ https://medium.com/@Tronfoundation/tron-partners-with-mlg-blockchain-to-develop-
 * [Michael Gord Twitter](https://twitter.com/bitgord)
 * [Michael Gord Linkedin](https://www.linkedin.com/in/mgord/)
 
+![](/jo.jpg)
 ## Joaquim Miro
 
 #### Name
@@ -34,6 +35,7 @@ https://www.bnnbloomberg.ca/technology/video/cryptocurrency-ads-and-scams-perspe
 * [Joaquim Miro Facebook](https://www.facebook.com/jmiro1)
 * [Joaquim Miro Linkedin](https://www.linkedin.com/in/joaquimmiro)
 
+![](/kyle.jpg)
 ## Kyle Fry
 #### Name
 Kyle Fry
@@ -48,6 +50,7 @@ Kyle holds an MBA from Columbia Business School where he graduated with honors a
 #### Press
 https://finance.yahoo.com/news/mlg-blockchain-consulting-appoints-wall-152800226.html
 
+![](/suman.jpg)
 ## Suman Das
 
 #### Name
@@ -60,6 +63,7 @@ Suman Das is the Chief Technology Officer of MLG Blockchain. Suman has 15 years 
 Suman has a degree in Bachelor of Science from Guwahati University and Computer Science Diploma (A Level)  from NIELIT/DOEACC.
 Link: https://www.businesswire.com/news/home/20180516005896/en/MLG-Blockchain-Consulting-Appoints-Renowned-Blockchain-Engineer
 
+![](/brian.jpg)
 ## Brian Lieberman
 #### Name
 Brian Lieberman
