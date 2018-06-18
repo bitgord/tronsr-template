@@ -1,4 +1,4 @@
-![](/michael.png)
+![](/michael.jpg)
 ## Michael Gord
 #### Name
 Michael Gord
