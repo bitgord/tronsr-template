@@ -54,7 +54,7 @@ Suman Das
 #### Role
 CTO
 #### Bio
-uman Das is the Chief Technology Officer of MLG Blockchain. Suman has 15 years of experience in software application development that includes 8 years as entrepreneur and founder of a software service company (Excoflare). He has worked as CTO for a leading Bitcoin company in India (Unocoin). In past he was associated with Paypal and Yahoo as software developer. He has working experience with a wide range of programming languages and platforms including C++, GoLang, Android, IOS, PHP, Perl, Java, Symbian, Tcl-Tk, etc. Blockchain and cryptocurrency are his interests or better you can say obsession for past 5 years. He has provided his expert skills to various ICO’s/ITO’s and blockchain startups.
+Suman Das is the Chief Technology Officer of MLG Blockchain. Suman has 15 years of experience in software application development that includes 8 years as entrepreneur and founder of a software service company (Excoflare). He has worked as CTO for a leading Bitcoin company in India (Unocoin). In past he was associated with Paypal and Yahoo as software developer. He has working experience with a wide range of programming languages and platforms including C++, GoLang, Android, IOS, PHP, Perl, Java, Symbian, Tcl-Tk, etc. Blockchain and cryptocurrency are his interests or better you can say obsession for past 5 years. He has provided his expert skills to various ICO’s/ITO’s and blockchain startups.
 
 Suman has a degree in Bachelor of Science from Guwahati University and Computer Science Diploma (A Level)  from NIELIT/DOEACC.
 Link: https://www.businesswire.com/news/home/20180516005896/en/MLG-Blockchain-Consulting-Appoints-Renowned-Blockchain-Engineer
