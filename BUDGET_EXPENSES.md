@@ -4,7 +4,7 @@ Prior to June 26 we far we have invested 10k into infrastructure and approximate
 ## Projected Funding
 After June 27, assuming that we become a TRON SR, we will allocate the following budgets.
 
-• 50% - back to TRON voters
-• 20% - develop global TRON community
-• 20% - maintain TRON infrastructure
-• 10% - support TRON projects
+• ~25% - support TRON projects
+• ~25% - develop global TRON community
+• ~20% - maintain TRON infrastructure
+• ~30% - other including contingencies, special projects, etc
